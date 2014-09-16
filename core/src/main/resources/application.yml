@@ -1,0 +1,8 @@
+spring:
+  application.name: crawler
+
+  jpa:
+    open-in-view: true
+    show-sql: false
+    hibernate:
+      ddl-auto: create
